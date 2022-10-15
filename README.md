@@ -1,4 +1,6 @@
 REPORTS GENERATOR
+
+
 This is a spring boot application which connects to a relational database and generate reports in a regular intervals of time.
 
 Configurations needed
